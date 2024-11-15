@@ -1,0 +1,163 @@
+{
+    "basics": {
+      "name": "Luis Toraya",
+      "label": "Desarrollador Web especialista en el desarrollo Front End",
+      "image": "public/Perfil.jpg",
+      "email": " luisg.toraya@gmail.com ",
+      "phone": " 9992182779 ",
+      "url": "",
+      "summary": "Soy un apasionado desarrollador web, tengo experiencia práctica en desarrollo de aplicaciones web y sitios interactivos, trabajando tanto en el front-end como en el back-end.",
+      "location": {
+        "address": "66 y 68 La Herradura IV",
+        "postalCode": "CP 97314",
+        "city": "Mérida",
+        "countryCode": "MX",
+        "region": "Yucatán"
+      },
+      "profiles": [{
+        "network": "LinkedIn",
+        "username": "luis-toraya",
+        "url": "https://www.linkedin.com/in/luis-toraya-novelo-318baa258/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Turuyu",
+        "url": "https://github.com/Turuyu"
+        }
+      ]
+    },
+    "work": [{
+      "name": "Sistemex",
+      "position": "Practicante",
+      "url": "https://sistemex.com/",
+      "startDate": "2023-05-05",
+      "endDate": "2023-10-10",
+      "summary": "Desarrollé interfaces web responsivas utilizando HTML, CSS3 y JavaScript, le di mantenimiento a aplicaciones web enfocadas en el back-end con tecnologías como  PHP y Laravel, diseñe y maqueté las interfaces para un catálogo web con Figma, elaboré de manuales de usuario según protocolos para la aseguración de la calidad.",
+      "highlights": [
+        ""
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Universidad Autónoma de Yucatán",
+      "url": "https://institution.com/",
+      "area": "Licenciatura en Ingeniería de Software",
+      "studyType": "Licenciatura",
+      "startDate": "2018-08-08",
+      "endDate": null,
+      "score": "",
+      "courses": [
+        ""
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Diseño Responsive", "Frontend"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Fullstack", "Backend"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Master",
+      "keywords": [
+        "Framework para sitios web basados en contenido"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Master",
+      "keywords": [
+        "Framework para Desarrollo Web"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Master",
+      "keywords": [
+        "Control de Versiones"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Master",
+      "keywords": [
+        "Gestor de Bases de Datos"
+      ]
+    },
+    {
+      "name": "Figma",
+      "level": "Master",
+      "keywords": [
+        "Maquetador para Diseño Web"
+      ]
+    }],
+    "languages": [{
+      "language": "Español, Ingles",
+      "fluency": "Lengua Madre, B1 "
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Re•Hab Landing Page",
+      "startDate": "2024-08-08",
+      "endDate": "2024-11-11",
+      "description": "Desarrollo de una landing page para la empresa llamada Re•Hab Fisioterapia Avanzada",
+      "highlights": [
+        ""
+      ],
+      "url": ""
+    }]
+  }
