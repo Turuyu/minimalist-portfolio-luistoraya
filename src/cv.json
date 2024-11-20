@@ -115,6 +115,13 @@
       ]
     },
     {
+      "name": "React",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Diseño Responsive", "Frontend"
+      ]
+    },
+    {
       "name": "Git",
       "level": "Master",
       "keywords": [
@@ -126,6 +133,34 @@
       "level": "Master",
       "keywords": [
         "Gestor de Bases de Datos"
+      ]
+    },
+    {
+      "name": "APIs",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Diseño Responsive", "Frontend"
+      ]
+    },
+    {
+      "name": "Teoría del color",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Diseño Responsive", "Frontend"
+      ]
+    },
+    {
+      "name": "UI",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Diseño Responsive", "Frontend"
+      ]
+    },
+    {
+      "name": "US",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Diseño Responsive", "Frontend"
       ]
     },
     {
